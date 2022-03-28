@@ -1,5 +1,7 @@
 # escrow-eth
 
+This repository creates an escrow service on the eth network. 
+
 
 Using Yarn 
 
